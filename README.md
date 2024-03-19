@@ -17,7 +17,36 @@ O objetivo deste projeto é criar uma dashboard que permita aos gestores e propr
 
 ## Tecnologias Utilizadas
 
-- **Frontend:** React.js, HTTPState, recharts.js, ShadcnUI, Tailwind, React-Hook-Form
-- **Backend:** Bun e Postgresql
-- **Autenticação e Autorização:** JSON Web Tokens (JWT),
+- **Frontend:** React.js, HTTPState, recharts.js, ShadcnUI, Tailwind, React-Hook-Form, React-Query (TanstackQuery)
+- **Backend:** Bun, Elysia e Postgresql
+- **Autenticação e Autorização:** JSON Web Tokens (JWT) e MagicLink,
 - **Outras Ferramentas:** Axios, Zod
+
+## Capturas de Tela
+
+Aqui estão algumas capturas de tela das principais telas da aplicação:
+
+### 1. Tela de Login
+
+<img src="https://github.com/p4peldebala/ProsperPizza/assets/120611995/dce0cfe0-dde0-4a75-8f16-ac65f1ee99d8"/> 
+
+Descrição: Esta tela permite que os donos da pizzaria façam login ou registrem uma nova pizzaria no app.
+
+### 2. Página Inicial (Dashboard)
+
+<img src="https://github.com/p4peldebala/ProsperPizza/assets/120611995/3dd2c040-8889-482b-8977-8ff57cdb8ce9"/> 
+
+Descrição: A página inicial da Dashboard exibe um gráfico detalhado de quantidade de receitas em um dado intervalo, conta também com um gráfico em formato de pizza com os principais produtos vendidos, além do faturamento total no mês,
+total de pedidos no mês, total de pedidos no dia e total de cancelamentos no mês.
+
+### 3. Página de Pedidos
+
+<img src="https://github.com/p4peldebala/ProsperPizza/assets/120611995/d64610e5-74bf-4efa-8200-50e6b40cc7e8"/> 
+
+Descrição: A página de pedidos mostra uma tabela onde se pode filtrar por id do pedido, nome do cliente e status do pedido. Além de poder alterar o status de cada pedido individualmente.
+
+### 4. Detalhes do Pedido
+
+<img src="https://github.com/p4peldebala/ProsperPizza/assets/120611995/d793a05b-93d7-4365-9612-37627d1cb4fc"/> 
+
+Descrição: Abre-se um modal com os detalhes de cada pedido como nome do cliente, telefone e email. E detalhes do pedido como quantidade, preço e valor total de cada item e subtotal.
