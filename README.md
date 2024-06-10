@@ -1,6 +1,6 @@
 # Dashboard de Monitoramento de Dados de Pizzarias - Ignite Pizza Shop 🍕
 
-Bem-vindo ao projeto Dashboard de Monitoramento de Dados de Pizzarias! Este é um projeto desenvolvido em colaboração com a Rocketseat para fornecer uma ferramenta de monitoramento eficaz para uma ou mais pizzarias.
+Bem-vindo ao projeto Dashboard de Monitoramento de Dados de Pizzarias! Este é um projeto desenvolvido em colaboração com a TopTech para fornecer uma ferramenta de monitoramento eficaz para uma ou mais pizzarias.
 ## Link para review do Projeto:
 
 (https://www.linkedin.com/feed/update/urn:li:activity:7171244582733602816/)
